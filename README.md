@@ -9,13 +9,13 @@
 =::..=-.:-  :::..     -: --:.  .-:    .. ::-++=-+=--.-+    Kernel: ......... PyTorch 2.x / CUDA
 :::==-:::. ..::..   ..-=:-=+++++#*====-:.:===+==++++=:.    Editor: .......... VS Code
 -=--::--:....::......:---:-=:.::::..:-::-.:++++--=++++-    
-----:::::..:::--------: ..:-. -==-:  . .-.:-+++=:+=++++    Languages: ...... Python, C, C++, Java, Kotlin
+----:::::..:::--------: ..:-. -==-:  . .-.:-+++=:+=++++    Languages: ...... Python, C, C++, Java
 --=----::----==-----:--   ..::-:--:.. .:::=:=++=:++++++    ML Stack: ....... PyTorch, TensorFlow, HF
 -==------------:::-----:  ::....:..  .:::-=++++==++++++                        Transformers, llama.cpp,
 ====------::---::------:.-=--:.... .:--:::=++++=+++++++                        OpenCV, LangChain
 ====------::---::::::-=+*%=:----:::::-%=-:==++=++++++++    
-====------::::::-=+#%#%%%%%=:-----:::#%%###**+==+++++++    Research: ....... Medical AI, Diffusion Models,
-=====----:.:=*#%@@@@%%%%%@%#=-:--::-#@%%@@@@@%#**++=+++                        VLMs, EdgeAI, Action Recog.
+====------::::::-=+#%#%%%%%=:-----:::#%%###**+==+++++++    Research: ....... Medical AI, Generative Models,
+=====----:.:=*#%@@@@%%%%%@%#=-:--::-#@%%@@@@@%#**++=+++                        LLMs, VLMs, SLMs, EdgeAI, Video Processing.
 =====---:.+%@@@@@%%%%%%%#*==+*=:-=+++*%@@@%@@%@@@%%#+=+    Focus: .......... AI for Social Good
 ===-----:*@%%@@@%@%#%%%%******#=-+==-=+*#%@%@%%%%@@@%#+    
 +++=====+%%%%%%%%@%%%%@@%%%%%%%*++**#%%%%@@@@%%%@%%%%%+    -------------
@@ -23,19 +23,18 @@
 ------:-#%%%%#%#**#%%%%%%%%%%##%%%%%%%%%%%%%%##%%%%%%%*    Email ........... anuragpradhancb@gmail.com
        .%%%%%%###**%%%%%%%%%#%%%%%%%%%%%%%%%%#%#%%%%#%-    Portfolio ....... anurag965.github.io/Portfolio
 ........%%%%%%%##**#%%%%%%%%%%%%%%%%%%%%%%#####%%%%%%%:    LinkedIn ........ in/anurag-pradhan-0340bb288
-++====--#%%%@%%%%*+#########%%%%%%#%%%######*#%%@%%%%#+    Scholar ......... Google Scholar
+++====--#%%%@%%%%*+#########%%%%%%#%%%######*#%%@%%%%#+    Scholar ......... in/citations?hl=en&user=_cFdzngAAAAJ
 +++=====#%%%%@%%%*=****######%%#%##%%######*#%%%#%%%##+    
 %%%%%%%##%%%%%%%%*-++**#####%%%%%#########*+%%#%%@%###+    
 %%%%%%%%#%%%%%%%#*:--=++**##%%%%####*##*#*-=###%%%%##*=    
 ##########%%%%%#**-:-===-===+++***#******-:=%%%%%%###*=    
 -------------
-GitHub Stats
-Repos: ................ 20
-Stars: ................. 43
-Followers: ............. 6
-Contributions (1y): .... 146
+
+"Building things that make sense of what we can't easily see."
+
+Interests: ...... Deep Learning Research, Open Source, Exploring New Tech
 ```
 
-**Currently working on:** MRI-to-synthetic CT reconstruction using diffusion models (SynthRAD2025) @ IIT Mandi — part of a broader interest in Medical AI and AI for Social Good.
+**Currently working on:**  Generative deep learning research in medical imaging @ IIT Mandi — part of a broader interest in Medical AI and AI for Social Good.
 
 📄 Co-author, *IJCNLP–AACL 2025* — VLM Accessibility Evaluation
