@@ -30,7 +30,7 @@
 ##########%%%%%#**-:-===-===+++***#******-:=%%%%%%###*=    
 -------------
 
-"Building things that make sense of what we can't easily see."
+"The world responds to actions , not thoughts."
 
 Interests: ...... Deep Learning Research, Open Source, Exploring New Tech
 ```
