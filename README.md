@@ -1,0 +1,39 @@
+### Hi, I'm Anurag 👋
+
+```
+-.--=--========.      :: -:-: :-                    anurag@github
+                      :..==== -+.                   -------------
+.......::..:::::::...:. :    .  ...........:::::::  OS: ............ Research Mode [ON]
++*+=+++.=#+         . ::.#-==-*++-=+*=+.=#+         Host: ........... IIT Mandi (Research Intern)
++##*#*+*#*+*=+*+==    ::.#*##++****#*#*+*#*+*+=+=*  Status: ......... Final-year, VIT Chennai ('27)
+@%@@@%@@%%@%@@%@+==.  ::.@@@#*@@@%@@#%#@@#@@%@%#%*  Kernel: ......... PyTorch 2.x / CUDA
+....::.:..:.:::.::-.  :: :....:::::..:.::..::.::.   Editor: .......... VS Code
+                      ::.*=+==++=.                  
+..........:.::..:...... ..........................  Languages: ...... Python, C, C++, Java, Kotlin
+:---.-=-            ..:                             ML Stack: ....... PyTorch, TensorFlow, HF
+****-*%*:.........: . :                                                 Transformers, llama.cpp,
+%%%#%%#%@@@#@@#%@==   :                                                 OpenCV, LangChain
+*+*++******==+*++=-+= :                             
+                      :                             Research: ....... Diffusion Models, VLMs, LLM
+... . ..              :                                                 Quantization, EdgeAI,
+                                                                        Action Recognition
+==*=*=+*.                          :::::.--.   =@@  
+==+=*+**:  ... ..   .. ..  ...  ...========-:  *@@  -------------
+ +*  *- .%=  -%. +%. *#  %+   %: -@-  =+  +: .   -  Contact
+..:.:.....:...... #- ...... -@ ....--...... ..  .=  Email ........... anuragpradhancb@gmail.com
+:. ..:.... ...... :...-.. . =@ :.. %# ..... ..  .=  Portfolio ....... anurag965.github.io/Portfolio
+.:   . ......::... ..==:.-......   ==     : ..  .=  LinkedIn ........ in/anurag-pradhan-0340bb288
+=-==+==.                 :      .=: .=**==  ..   .  Scholar ......... Google Scholar
+:::::::.............. ... .......:...:::::...       
+                                                    
+-------------
+GitHub Stats
+Repos: ................ 20
+Stars: ................. 43
+Followers: ............. 6
+Contributions (1y): .... 146
+```
+
+**Currently working on:** MRI-to-synthetic CT reconstruction using diffusion models (SynthRAD2025) @ IIT Mandi, and AWQ quantization benchmarking for low-resource languages (targeting ICPR 2026).
+
+📄 Co-author, *IJCNLP–AACL 2025* — VLM Accessibility Evaluation
